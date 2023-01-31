@@ -5,7 +5,7 @@
 const aboutLenkon = {
     fullName: "K Inoulen Shanongba",
     pronouns: ["He", "Him"],
-    nationality: "Indian IN",
+    nationality: "Indian :india:",
     jobStatus: ["Student at Microverse"],
     hobbies: ["DIY", "Reading", "Movies", "Running", "Coding"],
     techStack:["C", "C++", "JavaScript", "Shell Script", "SQL", "Bootstrap"],
