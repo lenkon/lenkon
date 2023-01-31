@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> <img src="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg" width="50">About Me<img src="https://giphy.com/gifs/foxadhd-ping-pong-fox-UH9QKcraNtbxK" align="right" width="100">
+> <img src="./about-me.png" width="70">About Me<img src="./Giphy_stickers_2019.gif" align="right" width="70">
 ```JavaScript
 const aboutLenkon = {
     fullName: "K Inoulen Shanongba",
