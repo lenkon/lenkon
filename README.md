@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![About Me](about-me.png) ![Giphy Stickers](Giphy_stickers_2019.gif)
+![About Me](about-me.png){:width="100px"} ![Giphy Stickers](Giphy_stickers_2019.gif){:width="100px" align="right"}
 
 ```JavaScript
 const aboutLenkon = {
