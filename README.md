@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="about-me.png" width="70"> About Me
-<img src="Giphy_stickers_2019.gif" align="right" width="70"> Giphy Stickers
+<img src="about-me.png" width="90">
+<img src="Giphy_stickers_2019.gif" align="right" width="120">
 
 ```JavaScript
 const aboutLenkon = {
