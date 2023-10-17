@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> <img src="./about-me.png" width="70">About Me<img src="./Giphy_stickers_2019.gif" align="right" width="70">
+> <img src="about-me.png" width="70">About Me<img src="Giphy_stickers_2019.gif" align="right" width="70">
 ```JavaScript
 const aboutLenkon = {
     fullName: "K Inoulen Shanongba",
