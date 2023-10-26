@@ -4,12 +4,12 @@
 
 ```JavaScript
 const aboutLenkon = {
-    fullName: "K Inoulen Shanongba",
+    fullName: "Inoulen Konjengbam",
     pronouns: ["He", "Him"],
     nationality: "Indian IN",
     jobStatus: ["Student at Microverse"],
-    hobbies: ["DIY", "Reading", "Movies", "Running", "Coding"],
-    techStack:["C", "C++", "JavaScript", "Shell Script", "SQL", "Bootstrap"],
+    hobbies: ["Coding", "DIY", "Reading", "Movies", "Running"],
+    techStack:["JavaScript", "React", "Ruby", "Rails", "PostgreSQL", "Shell Script", "SQL", "Bootstrap", "C", "C++"],
     isWorkingNow: false,
     educationLevel: {
         bachlorsDegree: "B.E. Computer Sc & Engg.",
